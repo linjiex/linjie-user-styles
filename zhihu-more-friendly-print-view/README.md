@@ -7,3 +7,5 @@
 * Website: http://linjie.me/save-zhihu-more-friendly
 * Code: http://github.com/linjiex/linjie-stylish-code
 * Install: http://userstyles.org/styles/94502/theme
+* ScreenShot:
+![](https://github.com/linjiex/linjie-user-styles/blob/master/zhihu-more-friendly-print-view/zhihu-more-friendly-print-view-screenshot.png?raw=true)
